@@ -1,7 +1,7 @@
 # read input file - choose: 
  
 # puzzle 1-1
-input = open("1-1-input.txt", "r") 
+input = open("1-input.txt", "r") 
 # sums for puzzle 1-2
 # input = open("1-2-sums.txt", "r")
 
